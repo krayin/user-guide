@@ -1,4 +1,4 @@
-# Bagisto Documentation
+# Krayin Documentation
 
 You can find the online version of the Krayin Documentation.
 
