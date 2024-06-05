@@ -1,6 +1,6 @@
 # Bagisto Documentation
 
-You can find the online version of the Bagisto documentation at [https://docs.bagisto.com](https://docs.bagisto.com).
+You can find the online version of the Krayin Documentation.
 
 ## Contribution guide
 
