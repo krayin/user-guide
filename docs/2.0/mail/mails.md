@@ -1,6 +1,6 @@
 # Mails 
 
-**"Mail"** typically refers to electronic mail, commonly known as email. It's a method of exchanging digital messages between people using electronic devices such as computers, smartphones, and tablets. Email is widely used for communication in both personal and professional settings. It allows users to send text-based messages, attachments (such as documents, images, or videos), and other digital content to one or more recipients over the internet. Email can be used for various purposes, including sending messages, sharing information, collaborating on projects, and conducting business communications.
+**Mail** typically refers to electronic mail, commonly known as email. It's a method of exchanging digital messages between people using electronic devices such as computers, smartphones, and tablets. Email is widely used for communication in both personal and professional settings. It allows users to send text-based messages, attachments (such as documents, images, or videos), and other digital content to one or more recipients over the internet. Email can be used for various purposes, including sending messages, sharing information, collaborating on projects, and conducting business communications.
 
 ## Compose
 
@@ -20,7 +20,7 @@ A list of Emails is stored as shown in the below image.
 
 ## Draft
 
-A "draft" in email refers to an unsent email message that is saved as a work-in-progress. Drafts are a useful feature in email because they allow users to start composing an email message, but then save it to be finished or edited at a later time.
+A draft in email refers to an unsent email message that is saved as a work-in-progress. Drafts are a useful feature in email because they allow users to start composing an email message, but then save it to be finished or edited at a later time.
 
 A list of draft emails is stored as shown in the below image.
 
@@ -49,5 +49,12 @@ The Trash folder is where emails are temporarily stored after being deleted from
 A list of trash emails is stored as shown in the below image.
 
  ![Mail Trash](../../assets/2.0/images/mail/mailTrash.png)
+
+**NOTE-** Kindly add the **SMTP details** in the **.env** file which is present in the root directory of Krayin to enable the functionality to send Emails. 
+
+ ![SMTP](../../assets/2.0/images/mail/emailSmtp.png)
+
+
+
 
 

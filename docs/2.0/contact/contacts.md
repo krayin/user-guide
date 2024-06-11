@@ -55,3 +55,5 @@ Now click on **Save as Organization** button.
 **Step-3** Now a new record is created in the contact organization grid you can use this organization while creating a lead.
 
 ![Organization Grid](../../assets/2.0/images/contact/organizationGrid.png) 
+
+**NOTE-** These above **Persons** and **Organization** you can assign it while creating a lead.

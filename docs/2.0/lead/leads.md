@@ -1,6 +1,6 @@
 # Leads
 
-A "Lead" is a potential customer or prospect. Generating a lead is the first step of the sales process in CRM. Lead records are designed to store all known information on the lead, including company name, address, contact details, and the lead's current position in the sales funnel.
+A Lead is a potential customer or prospect. Generating a lead is the first step of the sales process in CRM. Lead records are designed to store all known information on the lead, including company name, address, contact details, and the lead's current position in the sales funnel.
 
 ### Create Leads in Krayin 
 

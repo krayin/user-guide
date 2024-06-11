@@ -28,6 +28,8 @@ Now click on **Save as Product** button to save the product.
 
 ![Product Grid](../../assets/2.0/images/product/productGrid.png)
 
+**NOTE-** This product can be assigned while creating a lead. 
+
 
 
 

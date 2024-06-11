@@ -26,4 +26,5 @@ Now click on **Save as User** button.
 
 ![User Grid](../../assets/2.0/images/setting/userGrid.png)
 
+**NOTE-** This user can be assign while creating a lead. 
 

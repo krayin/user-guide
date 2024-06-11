@@ -60,3 +60,6 @@ Now click on **Save as Quote** button to save the quote.
 
  ![Quote Grid](../../assets/2.0/images/quote/quoteGrid.png)
 
+**NOTE**- This quote will get visible to the respective lead. For this you have to select the lead while creating the quote.
+
+

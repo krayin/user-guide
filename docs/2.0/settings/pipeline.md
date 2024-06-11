@@ -26,5 +26,7 @@ Now click on the **Save as Pipeline** button.
 
 ![Pipeline Grid](../../assets/2.0/images/setting/pipelineGrid.png)
 
+**NOTE-** You can also add new attributes to a pipeline and accordingly created attributes will visible on the lead. 
+
 
 

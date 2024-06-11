@@ -23,3 +23,12 @@ Now click on **Save as Email Template** button.
 **Step-3** A new record is created in the Email template grid as shown in the below image.
 
 ![Template Grid](../../assets/2.0/images/setting/templateGrid.png)
+
+**Step-4** Now you can add this Email template in Workflow now click on **Settings >> Workflow >> Create Workflow** select the **Event** to whom you need to send this email and now go to **Actions** and select **Send Email** as shown in the below image.
+
+![Template Workflow](../../assets/2.0/images/setting/templateWorkflow.png)
+
+**Step-5** Now from **Choose Option** select your email template as shown in the below image.
+
+![Workflow](../../assets/2.0/images/setting/option.png)
+
