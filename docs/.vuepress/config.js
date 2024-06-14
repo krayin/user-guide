@@ -10,7 +10,7 @@ module.exports = {
         ['script', {}, `
             (function() {
                 var script = document.createElement('script');
-                script.innerHTML = 'window.chatbotConfig = { url: "https://ask.bagisto.com:5001/chat", logoUrl: "https://demo.krayincrm.com/logoBot.png" };';
+                script.innerHTML = 'window.chatbotConfig = { url: "https://ask.bagisto.com:5001/chat", logoUrl: "https://demo.krayincrm.com/logo.png" };';
                 document.head.appendChild(script);
             })();
         `],
