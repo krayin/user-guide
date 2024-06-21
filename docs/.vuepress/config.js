@@ -2,8 +2,8 @@ module.exports = {
     base: '/',
     port: '8080',
     cache: false,
-    title: 'Krayin Documentation',
-    description: 'Krayin Developer Portal',
+    title: 'Krayin User Guide',
+    description: 'Discover Krayin – your ultimate destination for innovative solutions tailored to elevate your business. Explore cutting-edge technology and expert strategies designed to drive growth and success. Unleash your potential with Krayin today',
     head: [
         ['link', { rel: "icon", type: "image/png", href: "/favicon.ico" }],
 
