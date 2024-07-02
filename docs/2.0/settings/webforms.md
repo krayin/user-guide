@@ -1,6 +1,6 @@
 # Webforms
 
-Web forms simplify the process of capturing visitors' or users' information from your website into your CRM system. They are designed to automate the importing of data from websites into Zoho CRM. Non-technical users find it easy to design and publish their web forms.
+Web forms simplify the process of capturing visitors' or users' information from your website into your CRM system. They are designed to automate the importing of data. Non-technical users find it easy to design and publish their web forms.
 
 ### Create Webforms in Krayin
 
