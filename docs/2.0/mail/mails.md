@@ -1,34 +1,42 @@
 # Mails 
 
-**Mail** typically refers to electronic mail, commonly known as email. It's a method of exchanging digital messages between people using electronic devices such as computers, smartphones, and tablets. Email is widely used for communication in both personal and professional settings. It allows users to send text-based messages, attachments (such as documents, images, or videos), and other digital content to one or more recipients over the internet. Email can be used for various purposes, including sending messages, sharing information, collaborating on projects, and conducting business communications.
+**Mail** typically refers to electronic mail, commonly known as email. It's a method of exchanging digital messages between people using electronic devices such as computers, smartphones, and tablets. Email is widely used for communication in both personal and professional settings. 
+
+Email can be used for various purposes, including sending messages, sharing information, collaborating on projects, and conducting business communications.
 
 ## Compose
 
-To compose an email is another term for writing an email. For many email providers, you see a button that says “compose email” which, when clicked on, will let you start writing an email to be sent to a recipient.
+**To** An ‘address bar‘ where you put the email address
+
+**Subject:** ‘Subject bar’ is the title of your message, where you write what your email is about
+
+Then enter the main body of your email where you write your message.
 
  ![Compose Mail](../../assets/2.0/images/mail/composeEmail.png)
 
-To send mail click on **Send** Button
+**Add Attachment:** There is an option for attaching a file if you want to attach some files with email.
+
+**Save to Draft:** You can save mail into the draft also.
+
+ ![Compose Mail](../../assets/2.0/images/mail/attachment.png)
 
 ## Inbox
 
-An inbox is a primary location where all incoming emails are stored in an email account. The first screen appears when you log in to your email account. The inbox displays the list of emails you have received, along with their subject lines, senders, and the date and time they were received. 
-
-A list of Emails is stored as shown in the below image.
+Here you can see all the incoming emails. You can search mail from the Search Here and if you want to perform any action then select the email from the checkbox Select Action from the drop-down and Submit that.
 
  ![Mail Inbox](../../assets/2.0/images/mail/mailInbox.png)
 
 ## Draft
 
-A draft in email refers to an unsent email message that is saved as a work-in-progress. Drafts are a useful feature in email because they allow users to start composing an email message, but then save it to be finished or edited at a later time.
+While sending mail to the sender, if you saved the message in the draft, so you see in this section. You can edit or delete the mail also using the Actions tab in the below screenshot.
 
-A list of draft emails is stored as shown in the below image.
-
- ![Mail Draft](../../assets/2.0/images/mail/mailInbox.png)
+ ![Mail Inbox](../../assets/2.0/images/mail/mailDraft.png)
 
 ## Outbox
 
-An outbox is a folder in your email client that stores messages that have been composed but have not yet been sent. The messages remain in the outbox until they are successfully sent, at which point they are moved to the sent items folder.
+An outbox is a folder in your email client that stores messages that have been composed but have not yet been sent.
+
+The messages remain in the outbox until they are successfully sent, at which point they are moved to the sent items folder.
 
 A list of outbox emails is stored as shown in the below image.
 
@@ -36,23 +44,29 @@ A list of outbox emails is stored as shown in the below image.
 
 ## Sent 
 
-With e-mail, Sent or Sent items is a folder or area that stores any e-mails that were successfully delivered. The sent items are different than the outbox, it's where e-mail stays until it's delivered.
-
-A list of sent emails is stored as shown in the below image.
+In this field, you can see all send mails, using Actions you can see the mail and delete the mail also if it is not in use.
 
  ![Mail Sent](../../assets/2.0/images/mail/mailSent.png)
 
 ## Trash 
 
-The Trash folder is where emails are temporarily stored after being deleted from the Inbox or other folders. Emails in the Trash folder are usually automatically permanently deleted after a certain period of time, for example, 30 days.
+The Trash folder is where emails are temporarily stored after being deleted from the Inbox or other folders. Emails in the Trash folder are usually automatically permanently deleted after a certain period, for example, 30 days.
 
 A list of trash emails is stored as shown in the below image.
 
  ![Mail Trash](../../assets/2.0/images/mail/mailTrash.png)
 
+### Use of Filter in Mails 
+
+In Filter, you can find out filtered mail for that you have to put **ID, From, Subject, Tag Name, and Created At**. The same filter you can find in Draft, Inbox, Sent, and Trash. You can find out all deleted messages in the Trash.
+
+ ![Mail Trash](../../assets/2.0/images/mail/mailFilter.png)
+
 **NOTE-** Kindly add the **SMTP details** in the **.env** file which is present in the root directory of Krayin to enable the functionality to send Emails. 
 
  ![SMTP](../../assets/2.0/images/mail/emailSmtp.png)
+
+By following the above steps you can easily use Mail functionality in Krayin CRM.
 
 
 

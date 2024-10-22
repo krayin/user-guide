@@ -18,9 +18,9 @@ A Lead is a potential customer or prospect. Generating a lead is the first step 
 
 **4) Source-** Select the Source from where you got connected with the customer by Emails, Web, Web Form, Phone, and Direct platforms.
 
-**5) Type-** Select the type whether it is the Existing Business or a New Business.
+**5) Type-** Select the type for the lead.
 
-**6) Sales Owner-** Select a sales owner.
+**6) Sales Owner-** Select a sales owner for the lead.
 
 **7) Expected Close Date-** Enter the expected close date of the Lead.
 
@@ -56,6 +56,16 @@ Click on the lead below as shown in the below image.
 
 ![Lead Output](../../assets/2.0/images/lead/leadOutput.png)
 
-**A complete pipeline is created you can also add the steps in the pipeline as shown in the below image**
+**A complete pipeline is created you can also add the steps in the pipeline**
 
 ![Pipeline](../../assets/2.0/images/lead/pipeline.png)
+
+### Filter in Lead
+
+Here you can use the Filter tab to find out the desired lead.
+
+By default, there is **ID, Lead Value, Sales Person, Contact Person, Lead Type, Source, Tags, Expected Close Date, Created At,** filters available as shown in the image below.
+
+![Pipeline](../../assets/2.0/images/lead/leadFilter.png)
+
+By following the above steps you can easily create Leads in Krayin CRM.

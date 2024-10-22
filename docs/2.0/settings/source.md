@@ -8,10 +8,41 @@ Sources refer to the channels or methods through which leads or prospects enter 
 
 ![Source](../../assets/2.0/images/setting/source.png)
 
-**Step-2** Enter the name of the source and then click on **Save as Source** button.
+**Step-2** Enter the name of the source and then click on **Save Type** button.
 
 ![Create Source](../../assets/2.0/images/setting/createSource.png)
 
 **Step-3** A new record is created in the source data grid as shown in the below image.
 
 ![Source Grid](../../assets/2.0/images/setting/sourceGrid.png)
+
+### Actions in Sources
+
+There are two types of actions you can perform in the source section:
+
+1) Edit
+2) Delete
+
+**A) Edit Source**
+
+After Source creation, if you want to edit the Source Type **name** then go to the “Edit” option and click on **Save Type** button after making changes.
+
+![Source edit](../../assets/2.0/images/setting/editSource.png)
+
+**B) Deleting Source**
+
+If you want to delete an unnecessary source from your Krayin CRM, in the action click on **Delete** button, as shown in the below image.
+
+![Delete Grid](../../assets/2.0/images/setting/deleteSource.png)
+
+### Use of Filter in Source
+
+After creating a Source, you can use a “Filter” to find out the specific source by using **Name** as shown in the image below.
+
+![source filter](../../assets/2.0/images/setting/sourceFilter.png)
+
+**NOTE-** These sources can be assigned while creating a lead. 
+
+By following the above steps you can easily create sources in Krayin CRM.
+
+

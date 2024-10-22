@@ -1,7 +1,8 @@
 # Groups
 
-In Krayin CRM, groups typically refer to a feature that allows users to categorize or segment contacts, leads, or customers based on certain criteria. These groups can help organize data and streamline communication or marketing efforts. Users can create groups based on various factors such as demographics, interests, purchasing behavior, or any other relevant attributes. This segmentation facilitates targeted messaging and personalized interactions, improving the effectiveness of sales and marketing efforts within the CRM system.
+In Krayin CRM, groups typically refer to a feature that allows users to categorize or segment contacts, leads, or customers based on certain criteria.
 
+These groups can help organize data and streamline communication or marketing efforts. Users can create groups based on various factors such as demographics, interests, purchasing behavior, or any other relevant attributes. 
 
 ### Create Groups in Krayin
 
@@ -15,10 +16,42 @@ In Krayin CRM, groups typically refer to a feature that allows users to categori
 
 **2) Description-** Add the description of the group.
 
-Now click on **Save as Group** button.
+Now click on **Save Group** button.
 
 ![Create Group](../../assets/2.0/images/setting/createGroup.png)
 
 **Step-3** A new record is created in the group data grid as shown in the below image.
 
 ![Group Grid](../../assets/2.0/images/setting/groupGrid.png)
+
+### Use of Filter in Groups
+
+After creating groups, you can use a “Filter” to find out the specific group by using **Id and Name**.
+
+![Group Grid](../../assets/2.0/images/setting/groupFilters.png)
+
+### Actions in Group
+
+There are two types of actions you can perform in the Group section:
+
+1) Edit
+2) Delete
+
+**A) Edit Groups**
+
+After creating a group, if you want to edit or update the group **Name and Description**, go to the “Edit” option and click the **Save Group** button after making your changes.
+
+![Group Edit](../../assets/2.0/images/setting/editGroup.png)
+
+**B) Delete Groups**
+
+If you want to delete an unnecessary group from your Krayin CRM, in the action click on **Delete** button, as shown in the below image.
+
+![Group Delete](../../assets/2.0/images/setting/deleteGroup.png)
+
+**NOTE-** These Groups will be visible while creating a User.
+
+By following the above steps you can easily create groups in Krayin CRM.
+
+
+

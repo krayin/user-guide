@@ -44,6 +44,6 @@ A CRM workflow is a series or collection of steps required to complete a busines
 
 Web forms simplify the process of capturing visitors' or users' information from your website into your CRM system. 
 
-# Tags
+### Tags
 
 Tags are unique identifiers that you can attach to customer data in your CRM system. They allow you to group people based on their needs and interests so that when it's time for marketing, they get the right message at the right time - something all marketers want!

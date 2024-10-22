@@ -16,19 +16,37 @@ This individual could be a customer, a lead, a prospect, or any other person wit
 
 **1) Name-** Enter the name of the person.
 
-**2) Emails-** Enter the email ID of the person.
+**2) Emails-** Enter the email ID of the person from the dropdown you can select whether it is your work email or home email.
 
-**3) Contact Number-** Enter the contact details 
+**3) Contact Number-** Enter the contact details you can select whether it is your work contact number or home contact number.
 
-**4) Organization-** Enter the name of the organization.
+**4) Job Title-** Enter the Job Title of the person
+
+**5) Sales Owner-** Enter the sales owner.
+
+**6) Organization-** Enter the name of the organization.
 
 ![Person](../../assets/2.0/images/contact/person.png)
 
 Now click on **Save as Person** button.
 
-**Step-3** Now a new record is created click on **Persons** to check the record in the Contact Person grid.
+**Step-3** Now a new record is created click on Persons to check the record in the contact person data grid.
 
-![Person Grid](../../assets/2.0/images/contact/personGrid.png)
+![Person](../../assets/2.0/images/contact/personGrids.png)
+
+### Edit or Delete the Person
+
+By using the Actions tab you can edit or delete the person as shown in the image.
+
+![Person](../../assets/2.0/images/contact/action.png)
+
+### Filters for Person
+
+Here you can use the Filter tab to find out the desired person.
+
+By default, there are **ID, Name, Emails, Contact Numbers, Organization Name** filters available as shown in the image below.
+
+![Person](../../assets/2.0/images/contact/personFilter.png)
 
 ## Orgnization
 
@@ -40,7 +58,7 @@ It could be a commercial enterprise, a non-profit organization, a government age
 
 **Step-1** Go to admin panel of krayin and click on **Contacts >> Organizations >> Create Organization** as shown in the below image.
 
-![Create Organization](../../assets/2.0/images/contact/createOrganization.png)
+![Person](../../assets/2.0/images/contact/createOrganization.png)
 
 **Step-2** Add the below details briefly.
 
@@ -48,12 +66,24 @@ It could be a commercial enterprise, a non-profit organization, a government age
 
 **2) Address-** Enter the address of the organization **County State City Pincode**
 
-Now click on **Save as Organization** button.
+**3) Sales Owner-** Enter the sales owner.
 
-![Organization](../../assets/2.0/images/contact/organization.png)
+Now click on **Save Organization** button.
 
-**Step-3** Now a new record is created in the contact organization grid you can use this organization while creating a lead.
+![Person](../../assets/2.0/images/contact/organization.png)
 
-![Organization Grid](../../assets/2.0/images/contact/organizationGrid.png) 
+**Step-3** Now a new record is created in the contact organization data grid.
+
+![Person](../../assets/2.0/images/contact/organizationGrid.png)
+
+### Filters for Organization
+
+Here you can use the Filter tab to find out the desired organization.
+
+By default, there are **ID, Name, Created At,** filters available as shown in the image below.
+
+![Person](../../assets/2.0/images/contact/organizationFilter.png)
 
 **NOTE-** These above **Persons** and **Organization** you can assign it while creating a lead.
+
+By following the above steps you can easily create Persons & Organizations in Krayin CRM.

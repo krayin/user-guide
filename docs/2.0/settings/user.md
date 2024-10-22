@@ -14,11 +14,23 @@ A user typically refers to an individual who interacts with the CRM platform to 
 
 **2) Email-** Enter the email of the user.
 
-**3) Status-** Enable the status.
+**3) Password-** Enter the password of the user.
 
-**4) Password-** Enter the password of the user.
+**4) Role-** Select the role that you want to assign to the particular user.
 
-Now click on **Save as User** button.
+**5) View Permissions-** Select the permission i.e. **Global, Group, Individual** while creating the user, detailed explanation is mentioned below.
+
+**a) Global:** Permissions that apply to all users across the system or application. This level grants broad access and capabilities.
+
+**b) Group:** Permissions assigned to a specific group of users. This allows for managing access collectively, making it easier to apply the same permissions to multiple users without setting them individually.
+
+**c) Individual:** Permissions assigned to a single user. This allows for tailored access and control based on the specific needs of that user.
+
+**6) Group-** Select the group which you want to assign to the user.
+
+**7) Status-** Enable/Disable the status of the user according to your requirements.
+
+Now click on **Save User** button.
 
 ![Create User](../../assets/2.0/images/setting/createUser.png)
 
@@ -26,5 +38,33 @@ Now click on **Save as User** button.
 
 ![User Grid](../../assets/2.0/images/setting/userGrid.png)
 
-**NOTE-** This user can be assign while creating a lead. 
+### Actions in Users
+
+There are two types of actions you can perform in the user section:
+
+1) Edit
+2) Delete
+
+**A) Edit User**
+
+After User creation, if you want to edit or update the **name, email, password, role, view permission, group, & status** then go to the “Edit” option and click on **Save User** button after making changes.
+
+![User Grid](../../assets/2.0/images/setting/editUser.png)
+
+**B) Deleting Users**
+
+If you want to delete an unnecessary user from your Krayin CRM, in the action click on the Delete button, as shown in the below image.
+
+![User Grid](../../assets/2.0/images/setting/deleteUser.png)
+
+### Use of Filter in Users
+
+After creating a User, you can use a “Filter” to find out the specific users by using **“Name, Email, Status, Created At”**
+
+![User Grid](../../assets/2.0/images/setting/userFilter.png)
+
+**NOTE-** These users can be assigned while creating a lead. 
+
+By following the above steps you can easily create users in Krayin CRM.
+
 

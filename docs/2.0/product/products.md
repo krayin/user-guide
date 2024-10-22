@@ -16,9 +16,7 @@ Products encompass tools and functionalities designed to manage customer relatio
 
 **3) SKU-** Enter the SKU of the product.
 
-**4) Quantity-** Enter the quantity of the product.
-
-**5) Price-** Enter the price of the product.
+**4) Price-** Enter the price of the product.
 
 Now click on **Save as Product** button to save the product.
 
@@ -26,10 +24,48 @@ Now click on **Save as Product** button to save the product.
 
 **Step-3** Now a new record is created in the product data grid as shown in the below image.
 
-![Product Grid](../../assets/2.0/images/product/productGrid.png)
+![Product Grid](../../assets/2.0/images/product/productdataGrid.png)
 
-**NOTE-** This product can be assigned while creating a lead. 
+### Mass Delete Products
 
+You can delete all products at the same time by clicking on a check box and then clicking on Delete as shown in the below image.
 
+![Product Grid](../../assets/2.0/images/product/massDelete.png)
+
+### Use of Filter in Products
+
+You can search the products by using **SKU, Product Name, and Price** as filters as shown in the below image.
+
+![Product Grid](../../assets/2.0/images/product/filtersProducts.png)
+
+### Actions in Products
+
+There are three types of actions you can perform in the Products section:
+
+1) Edit
+2) Delete
+3) View
+
+**A) Edit Products**
+
+After Products creation, if you want to edit the Product **Name, Description, SKU, and Price** then go to the “Edit” option and click on **Save Product** button after making changes.
+
+![Products edit](../../assets/2.0/images/product/editProduct.png)
+
+**B) Deleting Products**
+
+If you want to delete an unnecessary Products from your Krayin CRM, in the action click on **Delete** button, as shown in the below image.
+
+![Delete Grid](../../assets/2.0/images/product/deleteProduct.png)
+
+**C) View Products**
+
+If you want to view a Product or make some edits like if you want to add **Files, Notes** from your Krayin CRM, in the action click on **View** button and easily add the Files, Notes, and the data will get visible in **Notes, Files and All** sections respectively as shown in the below image.
+
+![Grid](../../assets/2.0/images/product/viewProduct.png)
+
+**NOTE-** These products can be assigned while creating a lead. 
+
+By following the above steps you can easily create quotes in Krayin CRM.
 
 
