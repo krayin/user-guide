@@ -15,5 +15,5 @@ features:
 - title: Quotes
   details: Learn how to create and manage quotes for Krayin.  
 
-footer: Copyright © 2024 Krayin
+footer: Copyright © 2025 Krayin
 ---
