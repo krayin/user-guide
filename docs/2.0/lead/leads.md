@@ -1,71 +1,105 @@
 # Leads
 
-A Lead is a potential customer or prospect. Generating a lead is the first step of the sales process in CRM. Lead records are designed to store all known information on the lead, including company name, address, contact details, and the lead's current position in the sales funnel.
+A **Lead** is a potential customer or prospect. Generating a lead is the first step of the sales process in Krayin CRM. Lead records are designed to store all known information on the lead, including company name, address, contact details, and the lead's current position in the sales funnel.
 
-### Create Leads in Krayin 
+---
 
-**Step 1)** Go to Admin Panel of Krayin and click on **Leads >> Create Leads** as shown in the below image.
+## Create Leads in Krayin
 
- ![Create Lead](../../assets/2.0/images/lead/createLead.png)
+### Manual Lead Creation
 
-**Step 2)** Fill in all the details below.
+**Step-1** Go to the admin panel of Krayin and click on  
+**Leads >> Create Lead**.
 
-**1) Title-** Enter the title of the lead.
+![Lead create](../../assets/2.0/images/lead/createLead.png)
 
-**2) Description-** Enter the description of the lead.
+---
 
-**3) Lead Value-** Enter the value of the particular lead.
+**Step-2** Fill in the following lead details:
 
-**4) Source-** Select the Source from where you got connected with the customer by Emails, Web, Web Form, Phone, and Direct platforms.
+- **Title** – Enter the title of the lead.  
+- **Description** – Description about the opportunity.  
+- **Lead Value** – Estimated value of the lead.  
+- **Source** – Choose how the lead was acquired (e.g., Email, Web, Phone).  
+- **Type** – Select the lead type.  
+- **Sales Owner** – Assign a sales owner.  
+- **Expected Close Date** – Set an estimated closing date.
 
-**5) Type-** Select the type for the lead.
+![Lead Details](../../assets/2.0/images/lead/leadDetails.png)
 
-**6) Sales Owner-** Select a sales owner for the lead.
+---
 
-**7) Expected Close Date-** Enter the expected close date of the Lead.
+**Step-3** Enter Contact Person information:
 
- ![Lead Details](../../assets/2.0/images/lead/leadDetails.png)
+- **Name**  
+- **Email**  
+- **Contact Number**  
+- **Organization**
 
-**Step 3)** Now click on **Contact Person** details.
+![Contact details](../../assets/2.0/images/lead/contactDetails.png)
 
-**1) Name-** Enter the name of the contact person.
+---
 
-**2) Email-** Enter the email of the person.
+**Step-4** Search Product name to add product:
 
-**3) Contact Number-** Enter the contact number of the person.
+- Product name  
+- Price  
+- Quantity  
+- Total Amount
 
-**4) Organization-** Enter the organization of the customer.
+![Product details](../../assets/2.0/images/lead/productDetilas.png)
 
- ![Contact Details](../../assets/2.0/images/lead/contactDetails.png)
+---
 
-**Step 4)** Now click on the **Products** Details.
+**Step-5** Click on **Save as Lead** to store the new lead.
+![newLead](../../assets/2.0/images/lead/newleads.png)
 
-**1)** Add the product item. 
+A complete pipeline is generated. You can move leads between stages or customize your sales stages.
 
-**2)** Add the price of the product.
+![Pipline](../../assets/2.0/images/lead/pipeline.png)
 
-**3)** Add the quantity of the product.
+---
 
-**4)** Add the amount of the product.
+### Upload File to Create Leads (Magic AI)
 
- ![Product Details](../../assets/2.0/images/lead/productDetails.png)
+Krayin CRM also supports **document-based lead creation** using Magic AI.
 
-Now click on the **Save as Lead** button. 
+**Step-6** Go to **Leads >> All Leads** and click on the **Upload File** button.
 
-Click on the lead below as shown in the below image.
+![Upload Lead button](../../assets/2.0/images/lead/uploadLeadButton.png)
 
-![Lead Output](../../assets/2.0/images/lead/leadOutput.png)
+**Step-7** Select a `.doc`, `.pdf`, or image file that contains lead-related data.  
+Once uploaded, Magic AI will automatically extract details (e.g., Name, Email, Phone, Organization) and create a new lead.
 
-**A complete pipeline is created you can also add the steps in the pipeline**
+![Upload lead modal](../../assets/2.0/images/lead/uploadLeadModal.png)
 
-![Pipeline](../../assets/2.0/images/lead/pipeline.png)
+The uploaded leads will appear in the **"New" stage** of the pipeline.
 
-### Filter in Lead
+![Upload lead in new stage](../../assets/2.0/images/lead/newleads.png)
 
-Here you can use the Filter tab to find out the desired lead.
+> 🔗 *Note: This feature requires Magic AI and DOC Generation to be enabled in*  
+> **Settings >> Configuration >> Magic AI**
 
-By default, there is **ID, Lead Value, Sales Person, Contact Person, Lead Type, Source, Tags, Expected Close Date, Created At,** filters available as shown in the image below.
+---
 
-![Pipeline](../../assets/2.0/images/lead/leadFilter.png)
+## Filter in Leads
 
-By following the above steps you can easily create Leads in Krayin CRM.
+You can use the **Filter** tab to search for specific leads.
+
+Available filters include:
+
+- ID  
+- Lead Value  
+- Sales Person  
+- Contact Person  
+- Lead Type  
+- Source  
+- Tags  
+- Expected Close Date  
+- Created At  
+
+![Lead Fillter](../../assets/2.0/images/lead/leadFillter.png)
+
+---
+
+By following the above steps, you can easily create and manage leads in Krayin CRM—either manually or automatically using document upload with Magic AI.
