@@ -30,10 +30,6 @@
       {{ repoLabel }}
       <OutboundLink />
     </a>
-
-    <div class="nav-item" v-if="$route.path.split('/')[1] !== ''">
-     
-    </div>
   </nav>
 </template>
 
@@ -50,12 +46,6 @@ export default {
     DropdownLink
   },
 
-  data() {
-    return {
-      version: '2.0',
-    };
-  },
-  
   computed: {
     userNav () {
       return this.$themeLocaleConfig.nav || this.$site.themeConfig.nav || []
@@ -128,17 +118,7 @@ export default {
 
       return 'Source'
     }
-  },
-
-  methods: {
-    changeVersion() {
-      let currentPath = this.$route.path.split('/');
-
-      currentPath[1] = this.version;
-
-      this.$router.push(currentPath.join('/'));
-    },
-  },
+  }
 }
 </script>
 
