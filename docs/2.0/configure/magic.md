@@ -60,6 +60,20 @@ Each AI model should use a unique key for better security and performance.
 ![Save button](../../assets/2.0/images/configure/settings/save-button.png)
 
 ---
+**Step-7** Go to **Leads >> All Leads**.  
+
+- Click on the **Upload File** button to upload a `.doc` or supported file format containing lead data.
+
+- Once the file is uploaded, **Magic AI** will automatically extract details like name, email, and phone number, and create a lead entry.
+
+- These leads will appear in the **“New” stage** by default on your leads pipeline board.
+
+![Lead Stage](../../assets/2.0/images/configure/settings/leads-upload.png)
+
+You can then edit, assign, or move these leads through the pipeline as needed.
+
+---
+
 
 By following the above steps, you can easily configure **Magic AI** in Krayin CRM. Once active, it will begin extracting data from supported documents and simplify workflows like lead creation.
 
