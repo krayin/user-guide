@@ -42,11 +42,14 @@ module.exports = [
             ['settings/warehouse', 'Warehouses'],
             ['settings/attribute', 'Attributes'],
             ['settings/emailtemplate', 'Email Templates'],
+            ['settings/event', 'Events'],
+            ['settings/campaigns','Campaigns'],
             ['settings/webhooks', 'Webhooks'],
             ['settings/workflow', 'Workflows'],
             ['settings/datatransfer', 'Data Transfer'],
             ['settings/webforms', 'Web Forms'],
             ['settings/tags', 'Tags'],
+            
           
         ])
     },    
