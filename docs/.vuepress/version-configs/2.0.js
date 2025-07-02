@@ -42,12 +42,28 @@ module.exports = [
             ['settings/warehouse', 'Warehouses'],
             ['settings/attribute', 'Attributes'],
             ['settings/emailtemplate', 'Email Templates'],
+            ['settings/event', 'Events'],
+            ['settings/campaigns','Campaigns'],
             ['settings/webhooks', 'Webhooks'],
             ['settings/workflow', 'Workflows'],
+            ['settings/datatransfer', 'Data Transfer'],
             ['settings/webforms', 'Web Forms'],
             ['settings/tags', 'Tags'],
+            
+          
         ])
     },    
+    {
+        title: 'Configuration',
+        path: setVersionPrefix('configure'),
+        collapsable: true,
+        children: setVersionPrefix([
+            ['configure/general', 'General'],
+            ['configure/settings', 'Settings'],
+            ['configure/magic', 'Magic AI'],
+            ['configure/imap', 'IMAP Settings'],
+        ])
+    }
 
-    [setVersionPrefix('configure/configuration'), 'Configuration'],
+
 ]
