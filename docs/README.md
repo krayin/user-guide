@@ -3,7 +3,7 @@ home: true
 heroText: Krayin User Documentation 
 tagline: A Comprehensive User Guide to Seamlessly Navigate Krayin.
 actionText: Get Started →
-actionLink: /2.0/introduction/
+actionLink: /2.x/introduction/
 
 features:
 - title: Leads and Pipeline
