@@ -6,7 +6,7 @@ module.exports = {
     description: 'Discover Krayin – your ultimate destination for innovative solutions tailored to elevate your business. Explore cutting-edge technology and expert strategies designed to drive growth and success. Unleash your potential with Krayin today',
     head: [
         ['link', { rel: "icon", type: "image/png", href: "/favicon.ico" }],
-
+        ['meta', { name: "google-site-verification", content: "SiA7_wwkJPTAC8_I8R4dUO2nCIZFimDdFyTCsSG-nAQ" }],
         ['script', {}, `
             (function() {
                 var script = document.createElement('script');

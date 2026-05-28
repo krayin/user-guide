@@ -4,6 +4,7 @@
     :aria-labelledby="data.heroText !== null ? 'main-title' : null"
   >
     <header class="hero">
+       <meta name="google-site-verification" content="SiA7_wwkJPTAC8_I8R4dUO2nCIZFimDdFyTCsSG-nAQ" />
       <img
         v-if="data.heroImage"
         :src="$withBase(data.heroImage)"

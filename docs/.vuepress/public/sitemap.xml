@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.krayincrm.com/</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/introduction/</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/introduction/introductions.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/lead/leads.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/quote/quotes.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/mail/mails.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/activity/activities.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/contact/contacts.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/product/products.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/configure/</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/group.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/role.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/user.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/pipeline.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/source.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/type.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/warehouse.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/attribute.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/emailtemplate.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/event.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/campaigns.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/webhooks.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/workflow.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/datatransfer.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/webforms.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/settings/tags.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/configure/general.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/configure/settings.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/configure/magic.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.krayincrm.com/2.x/configure/imap.html</loc>
+  <lastmod>2025-08-20T11:09:31+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
