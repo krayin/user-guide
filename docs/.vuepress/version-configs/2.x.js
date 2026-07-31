@@ -47,6 +47,7 @@ module.exports = [
             ['settings/webhooks', 'Webhooks'],
             ['settings/workflow', 'Workflows'],
             ['settings/datatransfer', 'Data Transfer'],
+            ['settings/googlecontacts', 'Google Contacts'],
             ['settings/webforms', 'Web Forms'],
             ['settings/tags', 'Tags'],
             
