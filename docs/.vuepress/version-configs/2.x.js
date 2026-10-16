@@ -16,6 +16,8 @@ function setVersionPrefix(children) {
 module.exports = [
     [setVersionPrefix('introduction/introductions'), 'Introduction'],
 
+    [setVersionPrefix('dashboard/dashboard'), 'Dashboard'],
+
     [setVersionPrefix('lead/leads'), 'Leads'],
 
     [setVersionPrefix('quote/quotes'), 'Quotes'],
@@ -27,6 +29,12 @@ module.exports = [
     [setVersionPrefix('contact/contacts'), 'Contacts'],
 
     [setVersionPrefix('product/products'), 'Products'],
+
+    [setVersionPrefix('notification/notifications'), 'Notifications'],
+
+    [setVersionPrefix('header/quickadd'), 'Quick Add'],
+
+    [setVersionPrefix('header/megasearch'), 'Mega Search'],
 
     {
         title: 'Settings',
